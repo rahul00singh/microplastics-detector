@@ -1,6 +1,7 @@
-# microplastics-detector
-🌊 MicroDetect is a web-based interactive demo that simulates real-time detection of microplastics in water using AI-powered optical sensing. Users can upload images to analyze particle count, size, and material type, with safety assessments and monitoring dashboards for environmental awareness.
+# 🌊 MicroDetect  
+**Portable Optical Sensor for Real-Time Detection of Microplastics in Water**
 
+MicroDetect is a web-based interactive demo showcasing how optical sensing and AI techniques can be used for detecting and analyzing microplastics in water samples. It combines a clean responsive UI with an upload-and-analyze simulation for educational and research purposes.
 
 ---
 
